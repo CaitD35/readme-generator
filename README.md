@@ -16,4 +16,4 @@ The user can quickly create a professional README for a new project using the co
 
 
 
-a link to the screenshare is [here](./assets/images/Untitled_%20May%2018%2C%202023%207_34%20PM%20(1).webm)
+a link to the screenshare is [here](https://drive.google.com/file/d/1Ii8A3jyumQpb7gMuYhvfAAtpPhgrp3_W/view)
