@@ -4,7 +4,7 @@
 
 ## Description
 
-generates README.MD for the user and adds the input 
+generates a README
 
 ## Table of Contents
 

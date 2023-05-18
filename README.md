@@ -10,10 +10,10 @@ The user can quickly create a professional README for a new project using the co
 
 ## Below is the screenshare for the working code:
 
-![screenshare.](./assets/images/Untitled_%20May%2017%2C%202023%209_11%20PM.gif)
+![screenshare.](./assets/images/Untitled_%20May%2018%2C%202023%207_34%20PM.gif)
 
 
 
 
 
-a link to the screenshare is [here](./assets/images/Untitled_%20May%2017%2C%202023%209_11%20PM.webm)
+a link to the screenshare is [here](./assets/images/Untitled_%20May%2018%2C%202023%207_34%20PM%20(1).webm)
